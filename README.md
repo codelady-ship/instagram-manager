@@ -8,6 +8,12 @@
 
 A free, text-only skill by Codelady Abroad for students, beginners, small shops and personal brands. It runs anywhere a plain prompt runs: Claude Code, the Claude app, other agents or a website form. No scripts, no account access, no paid APIs.
 
+## New in 1.1.0
+
+Instagram's current 5-hashtag limit and "AI label" wording (checked on the Help Center); Trial Reels hook tests; Story sequences; Instagram SEO; daily outbound comment plan; collab and brand-deal templates; repurpose-one-idea-into-a-week; competitor outlier review; sends-per-reach review. See [CHANGELOG.md](CHANGELOG.md).
+
+Agensi package: `pwsh ./scripts/build-agensi-zip.ps1` builds `dist/instagram-manager.zip` (SKILL.md, references/, examples/, CHANGELOG.md only). Listing texts: [LISTING.md](LISTING.md). Blind test results: [`tests/`](tests/).
+
 ## The loop
 
 1. **Audit** of the profile from what you paste: score out of 20 and the top 3 fixes.

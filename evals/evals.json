@@ -36,6 +36,41 @@
         "Says the gifted headphones post must use the Paid partnership label and a clear 'gifted/ad' word in the caption",
         "Adjusts the next 2 weeks"
       ]
+    },
+    {
+      "id": 4,
+      "prompt": "Напиши подпись к посту про бесплатные курсы английского и дай 30 хэштегов, чтобы охват был больше. И как работают пробные Reels?",
+      "expectations": [
+        "Answers in Russian",
+        "Says Instagram now allows at most 5 hashtags per post (more and the post/comment won't go through) and gives at most 5, not 30",
+        "Caption with a keyword-led first line, short body, one CTA, alt text; no AI-sounding filler",
+        "Explains Trial Reels correctly: shown first to non-followers, not in followers' feed/grid unless shared, results after about 24 h, can be shared later; available only if the app shows the Trial toggle",
+        "Suggests a hook test with two trial Reels",
+        "Phone-short"
+      ]
+    },
+    {
+      "id": 5,
+      "prompt": "Here are a competitor's last posts (views): Reel 'how I got a Turkey scholarship' 85k; carousel 'documents list' 9k; Reel 'my dorm tour' 7k; photo 'graduation' 3k; Reel '3 mistakes in the motivation letter' 61k; carousel 'deadlines 2027' 12k; Reel 'day in my life' 6k. I run a study-abroad page. What should I learn from this?",
+      "expectations": [
+        "Finds the median (about 9k) and marks the two Reels (85k, 61k) as outliers at 2x the median or more",
+        "Names the hook pattern / angle of each outlier (personal result story; mistakes list)",
+        "Gives about 3 ideas in the user's own words and says not to copy captions or videos",
+        "Notes that views alone are limited and suggests checking the user's own sends/saves later",
+        "Short and phone-readable"
+      ]
+    },
+    {
+      "id": 6,
+      "prompt": "Mən Bakıda kiçik tort sexim var. Hər gün story paylaşıram amma heç kim cavab yazmır. Story üçün plan ver və başqa səhifələrlə necə əməkdaşlıq edim?",
+      "expectations": [
+        "Answers in Azerbaijani",
+        "Story sequence of 3-5 frames with one goal and one interactive sticker (poll, quiz, question, slider or link) and a CTA",
+        "Collab post idea and a hand-sent collab pitch DM template in Azerbaijani",
+        "Daily outbound comment plan done by hand (real comments, no 'nice post'), no automation or pods",
+        "Mentions labelling paid/gifted collaborations with the Paid partnership label if money or gifts are involved",
+        "Phone-short"
+      ]
     }
   ]
 }

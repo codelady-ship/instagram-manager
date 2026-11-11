@@ -1,6 +1,6 @@
 # Formats (quick reference)
 
-## Reel (15–60 s)
+## Reel (15–60 s; Reels can be up to 3 minutes, but short wins for reach)
 
 | Part | Time | What happens |
 |---|---|---|
@@ -8,7 +8,7 @@
 | Setup | 3–8 s | Why it matters, in one sentence. |
 | Body | 8–45 s | 3 steps / 3 points, a new shot every 2–4 s. On-screen text repeats the key words. |
 | Payoff | last 5–10 s | The result, the answer, the "after". |
-| CTA | last 2–3 s | One ask: save, share, follow for part 2, or comment a keyword. |
+| CTA | last 2–3 s | One ask only: pick ONE of save, share, follow for part 2, or comment a keyword. |
 
 Hook patterns (write new words each time):
 - Mistake: "Stop doing X if you want Y."
@@ -26,13 +26,13 @@ Shot list format:
 3-8s  | screen recording app 1 | TEXT: "1. Anki"           | "First..."
 ```
 
-## Carousel (6–10 slides, 4:5 portrait 1080 × 1350)
+## Carousel (6–10 slides is the sweet spot; up to 20 allowed; 4:5 portrait 1080 × 1350)
 
 1. Hook slide: big text, max 8–10 words, a clear promise.
 2. Problem or context.
 3–8. One idea per slide, large font, one visual.
 9. Summary or checklist (the most saved slide).
-10. CTA: save, share, comment, follow.
+10. CTA: ONE action only (save, or share, or comment a word, or follow).
 
 Keep the same template on every slide; contrast high enough to read on a phone in sunlight.
 
@@ -50,13 +50,13 @@ One clear subject, natural light, the topic visible in the thumbnail. Text overl
 ## Caption template
 
 ```
-<Hook line, under 125 characters>
+<Hook line, about 125 characters show before "…more" (observed)>
 
 <2-5 short lines: the value, the story or the steps>
 
-<One CTA: save / share / comment WORD / link in bio>
+<One CTA, pick only one: save OR share OR comment WORD OR link in bio>
 
-<3-5 hashtags>
+<3-5 hashtags (Instagram allows max 5)>
 ```
 
 ## Cross-post variants (only when asked)
@@ -68,5 +68,5 @@ One clear subject, natural light, the topic visible in the thumbnail. Text overl
 ## Labels
 
 - Paid, gifted or affiliate content: Instagram "Paid partnership" label + a clear word in the caption.
-- Realistic AI images or video: "AI info" label.
-- Giveaways: follow Instagram's promotion rules; state that Instagram is not involved, give the rules and the end date.
+- Photorealistic AI video or realistic AI audio: switch on "Add AI label" (shows as "AI content").
+- Giveaways: follow Instagram's promotion rules; state that Instagram is not involved, give the rules and the end date. Never "like + follow + tag 5 friends to win money": the Community Guidelines forbid offering money for engagement.
