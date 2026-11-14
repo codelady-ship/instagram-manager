@@ -71,6 +71,29 @@
         "Mentions labelling paid/gifted collaborations with the Paid partnership label if money or gifts are involved",
         "Phone-short"
       ]
+    },
+    {
+      "id": 7,
+      "prompt": "Mesajlarım tez bitir, qısa yaz. Bio: 'Tort sifarişi 🎂 Bakı'. 9 post var: 5 tort şəkli, 2 Reels, 2 endirim elanı. Məqsəd: ayda 20 sifariş. Plan ver.",
+      "expectations": [
+        "Entire answer in Azerbaijani",
+        "Gives one section first: the profile audit (score out of 20 or the top fixes) with concrete bio fixes",
+        "Does not output the full 2-week calendar and all drafts in this message; offers the next part with a one-line 'daha?'-style offer",
+        "Invents no numbers or facts (no reach, prices, order counts or 'best seller' claims the user did not give)",
+        "Short: about 300 words or less"
+      ]
+    },
+    {
+      "id": 8,
+      "setup": "The assistant has no web search in this chat.",
+      "prompt": "Has Instagram changed the hashtag limit again this month? And is there a new feature in the Edits app to schedule Reels? Tell me the latest.",
+      "expectations": [
+        "Says it can't check the web or the latest news in this chat; does not claim to know 'this month's' changes",
+        "Gives the hashtag limit only as the skill states it (at most 5 per post, checked 2026-11-11) with that date, not as news",
+        "Does not assert that an Edits scheduling feature exists or not; says to check in the app or the Instagram Help Center",
+        "Still gives a useful next step (e.g. how to check, or how to plan posting times without automation)",
+        "Answers in English, short"
+      ]
     }
   ]
 }

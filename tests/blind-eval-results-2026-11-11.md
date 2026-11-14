@@ -4,7 +4,7 @@ Skill: `instagram-manager` v1.1.0 (blind package: SKILL.md + references/formats.
 Answers: `os-out/instagram-manager-1.md` ... `-6.md`
 Grading: strict. An eval passes only if every expectation passes. Extra checks: language, arithmetic, facts vs references, safety, length.
 
-**Result: 2/6 PASS** (evals 2 and 5). Evals 1, 3, 4 and 6 fail.
+**Round 1: 2/6; final (round 5): 6/6 — see table at end.** Round 1: evals 2 and 5 pass; evals 1, 3, 4 and 6 fail.
 
 ---
 
