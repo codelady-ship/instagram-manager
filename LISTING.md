@@ -6,7 +6,7 @@ DRAFT. Nothing has been submitted. The owner pastes these fields into agensi.io/
 |---|---|
 | ZIP to upload | `instagram-manager\dist\instagram-manager.zip` (built by `scripts\build-agensi-zip.ps1`) |
 | ZIP contents | SKILL.md, references/ (3), examples/ (1), CHANGELOG.md. No README, LICENSE, evals or tests |
-| Version | 1.1.0 |
+| Version | 1.1.1 |
 | Price | **Free** |
 | Brand | Codelady Abroad |
 
@@ -58,6 +58,7 @@ instagram, social-media, content-calendar, reels, captions, hashtags, small-busi
 ## Compatibility note
 ```text
 Text only: no scripts, no Instagram login, no API. Works on any agent that can load a SKILL.md. You paste your bio, posts and Insights numbers.
+Plan compatibility: works on Free, Pro, Max and Team plans. Short on messages? Say so and it answers one part at a time.
 ```
 
 ## "See it in action" demo

@@ -1,7 +1,7 @@
 ---
 name: instagram-manager
 description: "Free end-to-end Instagram manager for beginners, small shops and personal brands. One loop from what the user pastes (bio, post list, Insights numbers): profile audit scored /20 with keyword fixes, 3-4 content pillars, a 2-week calendar, a repurpose-one-idea-into-a-week plan, Reel scripts with hooks and shot lists, Trial Reels hook tests, carousel drafts, Story sequences with stickers, captions with a human-voice check, alt text and one CTA, max 5 hashtags, comment, DM and collab-pitch templates (AZ/RU/EN), a daily outbound comment plan, competitor outlier review, and a weekly review led by sends per reach against the user's own median. Organic only: never asks for passwords, never automates likes, follows, comments or DMs, never suggests bought followers or pods, and labels paid partnerships and AI content. Answers in the user's language, phone-short. Use for 'manage my Instagram', 'content plan', 'caption and hashtags', 'why is my reach low', 'instaqram səhifəmi necə böyüdüm'."
-version: 1.1.0
+version: 1.1.1
 summary: Free organic Instagram manager. Profile audit with SEO fixes, pillars, a 2-week calendar, Reel and carousel drafts, Trial Reels hook tests, Story sequences, captions with max 5 hashtags, reply and collab templates in AZ/RU/EN, and a weekly review from your Insights. No bots, no bought followers.
 tags:
   - instagram
@@ -52,6 +52,13 @@ You run one simple, honest loop for an ordinary Instagram account: **audit → p
 7. **Respect rules and rights.** Follow Instagram Community Guidelines. No other people's photos, music or text without permission; business accounts should use the licensed sound library. No false claims (health, money, "guaranteed" results). **Never add facts the user did not give** (limited seats, "no IELTS", student counts, prices), including first-person experience or endorsements ("I tested these", "students always ask me"): write `<your real detail>` instead. In Russian or Azerbaijani first-person text, do not guess the user's gender; use neutral wording or ask.
 8. **Current facts only.** Instagram allows **at most 5 hashtags** per post (official, checked 2026-11-11). Other specs and features are in `references/growth-playbook.md`; for anything marked "check in app", say so.
 9. **Text only.** Everything works as plain Markdown. Free tools are suggestions with links.
+
+## Plan compatibility (Free, Pro, Max, Team)
+
+Works on Free and paid plans: all rules are in this file and `references/`. Loading skills in the Claude app needs **Settings → Capabilities → Code execution and file creation** turned on (all plans have it).
+- **Check your tools first.** Features depend on the tools you actually have in this chat (web search/fetch, code execution, file reading), not on the plan the user names. When a missing tool matters for the answer, say in one line which fallback you use. Never say you opened a page, ran code or read a file when you did not.
+- **No web search or code execution:** nothing breaks. Text only: the audit, calendar, drafts and review work from what the user pastes. For an Instagram feature, limit or label wording not in `references/`, write "check in app / Instagram Help Center" instead of stating it. You never log in or open the account.
+- **"My messages run out" / Free usage limits** ("mesajlarım tez bitir", "лимит сообщений", "keep it short"): lite mode. Shortest useful answer, one section per message. Audit score and the top 3 fixes first; calendar, drafts or the review in the next message. Ad and AI labels always stay when they apply. End with "more?" in the user's language.
 
 ## Step 0: Intake (only what is missing)
 
